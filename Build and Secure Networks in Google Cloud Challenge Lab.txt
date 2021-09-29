@@ -35,3 +35,5 @@ TASK 6 : SSH to bastion host via IAP and juice-shop via bastion
 
 ssh [Internal IP address of juice-shop]
 
+-------------------------------------------------------------------------------------------------------
+Enjoy lab Complete
